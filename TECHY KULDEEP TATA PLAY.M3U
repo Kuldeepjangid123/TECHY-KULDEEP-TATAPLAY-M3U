@@ -591,7 +591,7 @@ https://delta13tatasky.akamaized.net/out/i/2285199.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C+Kqg5UGcTf6ukJSMHajyw", "kid":"8gHUnzF7SwmRj4n1YYx/6Q" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="24" group-title="Techy Kuldeep Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" ,Star Sports 1 Hindi HD
-https://delta4tatasky.akamaized.net/out/i/6527246.mpd
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
 
 #EXTM3U  x-tvg-url="https://www.tsepg.cf/epg.xml.gz" 
 
